@@ -1,4 +1,5 @@
-//# Programming Foundations - Module 2
+Hallo dette er julie
+# Programming Foundations - Module 2
 
 ## Lesson Task 2 Questions
 
