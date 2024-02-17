@@ -27,3 +27,24 @@ var animals = [
 animals.forEach(function (animal) {
   console.log(animal.colour);
 });
+
+//Question 3
+var dinnerOptions = [
+  { name: "Fish and Dips", price: 11.95, onSpecial: true },
+  { name: "Bacon and Frogs", price: 12.99, onSpecial: false },
+  { name: "Mince Flies", price: 19.0, onSpecial: true },
+];
+
+for (var i = 0; i < dinnerOptions.length; i++) {
+    const element = dinnerOptions[i];
+    if (dinnerOptions ==  ) {
+     console.log();   
+    }
+    }
+console.log(result);
+
+
+
+
+console,log(Bacon and Frogs);
+console.log(Mince Flies);
